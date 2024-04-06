@@ -30,7 +30,7 @@ const App = () => {
         selectedOption={selectedOption}
         onOptionChange={handleOptionChange}
       />
-      <p>Selected Option : {selectedOption}</p>
+      <p>Selected Option: {selectedOption}</p>
     </div>
   );
 };
